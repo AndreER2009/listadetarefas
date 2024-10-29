@@ -1,0 +1,16 @@
+mostrar cinco opções:
+adicionar tarefa
+visualiza terefa
+marca como concluida
+excluir
+sair
+escolher opção
+adicionar tarefa:
+digitar titulo da tarefa
+digitar descição da tarefa
+digitar data
+marcar como concluida:
+selecionar a tarefa
+mostrar status
+
+
